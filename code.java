@@ -15,7 +15,7 @@ class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
         
-        int num1 = 12345;
+        int num1 = 12340;
         System.out.println("Original: " + num1 + ", Reversed: " + solution.reverseNumber(num1));
         
         int num2 = -9876;
